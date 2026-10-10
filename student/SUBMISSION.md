@@ -4,10 +4,10 @@
 
 ## Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repo (fork):
+- Họ tên: Nguyễn Đăng Thực
+- MSSV: 2A202603014
+- Email: thuc13999@gmail.com
+- Link repo (fork): https://github.com/ThucNguyen1705/K4-L2L3-DAY23-NguyenDangThuc-2A202603014-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`):
 
 ## Tóm tắt kết quả
